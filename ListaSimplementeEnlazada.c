@@ -2,7 +2,7 @@
 #define SLL_C_INCLUDED
 #include "stdlib.h"
 #include "stddef.h"
-#include "SLL.h"
+#include "ListaSimplementeEnlazada.h"
 #include "string.h"
 #include "stdio.h"
 

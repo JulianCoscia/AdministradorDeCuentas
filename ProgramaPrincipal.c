@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "SLL.h"
+#include "ListaSimplementeEnlazada.h"
 
 
 int main()
